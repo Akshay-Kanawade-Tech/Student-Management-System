@@ -4,7 +4,6 @@ This repository contains a comprehensive Student Management System, developed us
 
 #output
 1.Creating student-->
-
 ![Screenshot (63)](https://github.com/Akshay-Kanawade-Tech/Student-Management-System/assets/140236140/5d82042d-d073-427f-836d-805e6843e25d)
 
 2.list of created students
